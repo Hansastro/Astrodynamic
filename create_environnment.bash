@@ -12,6 +12,6 @@ pip install -r requirements.txt
 
 echo
 echo ------------------------------------------------------------------
-echo type \'source /env/bin/activate\' to activate the virtual environment
+echo type \'source env/bin/activate\' to activate the virtual environment
 echo type \'deactivate\' to quit the virtual environment
 echo ------------------------------------------------------------------
